@@ -1,0 +1,19 @@
+[
+{
+  "modid": "kottlergmod",
+  "name": "A Test Mod",
+  "description": "A Test mod I made",
+  "version": "0.0.1",
+  "credits": "Created by Me",
+  "logoFile": "",
+  "mcversion": "",
+  "url": "https://github.com/kottlerg/KottlergMod",
+  "updateUrl": "",
+  "authors": [ "gk9339" ],
+  "parent":"",
+  "screenshots": [],
+  "dependencies": [
+         "mod_MinecraftForge"
+]
+}
+]
