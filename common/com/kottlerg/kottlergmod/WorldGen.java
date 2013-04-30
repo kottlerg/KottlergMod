@@ -41,6 +41,7 @@ private void generateSurface(World world, Random random, int chunkX,int chunkZ){
             int yCoord = random.nextInt(50);
             int zCoord = chunkZ + random.nextInt(16);            
             (new WorldGenMinable(500, 10)).generate(world, random, xCoord, yCoord, zCoord);
+            (new WorldGenMinable(503, 5)).generate(world, random, xCoord, yCoord, zCoord);
         }
 
 }
